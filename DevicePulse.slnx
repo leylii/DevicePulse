@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DevicePulse.Api/DevicePulse.Api.csproj" />
+    <Project Path="src/DevicePulse.Core/DevicePulse.Core.csproj" />
+    <Project Path="src/DevicePulse.Simulator/DevicePulse.Simulator.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DevicePulse.Tests/DevicePulse.Tests.csproj" />
+  </Folder>
+</Solution>
